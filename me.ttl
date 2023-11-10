@@ -1,4 +1,4 @@
 @prefix schema: <https://schema.org/> .
 
-<https://github.com/qlavent/#me> schema:knows <https://github.com/lars-vc/#me> .
-<https://github.com/qlavent/#me> schema:name "Quinten" .
+<https://qlavent.github.io/me.ttl> schema:knows <https://lars-vc.github.io/knowledgegraphs-les/test.ttl#me> .
+<https://qlavent.github.io/me.ttl> schema:name "Quinten" .
